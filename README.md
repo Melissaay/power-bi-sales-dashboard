@@ -18,6 +18,19 @@ Build a structured, reliable and scalable system to monitor sales performance ac
 
 ---
 
+## System structure
+
+The reporting system was designed to reflect the organizational structure:
+
+- National dashboards for executive view
+- Regional dashboards for performance tracking
+- Sales-level dashboards for operational follow-up
+
+With different perspectives:
+- Distribution
+- Direct sales
+- Sell-in vs Sell-out
+
 ## What was designed
 
 ### Data layer
@@ -74,3 +87,4 @@ Each level provides:
 
 A dashboard is not just a visual tool.  
 It is part of a broader system combining data, business rules and decision logic.
+This work goes beyond dashboard design and focuses on building a coherent performance monitoring system aligned with business structure.
