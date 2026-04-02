@@ -62,22 +62,23 @@ Each level provides:
 
 ## Dashboard examples
 
+Below are examples of dashboards designed as part of a structured sales performance monitoring system.
+
 ### Main dashboard (global view)
 
-![Main dashboard](dashboard-live-main.png)
+![Main dashboard](images/dashboard-live-main.png)
 
 ---
 
 ### Regional view
 
-![Regional dashboard](dashboard-live-regional.png)
+![Regional dashboard](images/dashboard-live-regional.png)
 
 ---
 
 ### KPI / reallocation logic example
 
-![Reallocation dashboard](dashboard-maquette-realloue.png)
-
+![Reallocation dashboard](images/dashboard-maquette-realloue.png)
 ---
 
 ## Key challenges addressed
