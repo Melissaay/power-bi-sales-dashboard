@@ -43,7 +43,7 @@ With different perspectives:
 - reconciled conflicting metrics (sell-in vs sell-out)
 - defined consistent performance indicators
 
-### Dashboard architecture
+### Reporting system architecture
 
 Designed a multi-level dashboard system:
 
