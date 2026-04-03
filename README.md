@@ -72,9 +72,9 @@ Below are examples of dashboards designed as part of a structured sales performa
 
 ---
 
-### Regional view
+### Direct Sales logic example
 
-![Regional dashboard](images/dashboard-live-regional.png)
+![Regional dashboard](images/dashboard-maquette-VD.png)
 
 ---
 
